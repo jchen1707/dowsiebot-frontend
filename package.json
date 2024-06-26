@@ -1,0 +1,31 @@
+{
+  "name": "dowsiebot-frontend",
+  "version": "1.0.0",
+  "description": "League of Legends Item Build, Summoner Spell, &amp; Rune recommendation chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchen1707/dowsiebot-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchen1707/dowsiebot-frontend/issues"
+  },
+  "homepage": "https://github.com/jchen1707/dowsiebot-frontend#readme",
+  "dependencies": {
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sass": "^1.77.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.2"
+  }
+}
